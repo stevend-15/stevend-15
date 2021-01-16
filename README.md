@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there! 👋
 
 - 🔭 I’m currently working on ... finishing my BS in Computer Science
 - 🌱 I’m currently learning ... C language, Linear Algebra, Data Structures & Algorithms, Computer Architecture
