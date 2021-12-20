@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working on ... finishing my BS in Computer Science
-- 🌱 I’m currently learning ... C language, Linear Algebra, Data Structures & Algorithms, Computer Architecture
+- 🌱 I’m currently learning ... Operating Systems, Modeling & Simulation, Software Engineering, Capstone Research
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... learning about APIs
 - 💬 Ask me about ... anything!
